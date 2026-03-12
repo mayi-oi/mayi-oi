@@ -1,4 +1,18 @@
-## Hi there 👋
+## Hello there! 👋
+Ich bin mayi.-oi! und ich bin ein anfänger web entwickler.
+
+## Projekte 💾
+ mayi-oi website
+  > Ein personal website baut für mich!
+
+ booksish-waffle (aktiv)
+  > Ein benutzerdefiniertes Profil für Janitor ai! 
+
+ untitled skin
+  > untitled skin just download away!
+
+## Kontakt mir! 
+Email: arkadlen@proton.me
 
 <!--
 **mayi-oi/mayi-oi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
