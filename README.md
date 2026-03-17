@@ -2,17 +2,12 @@
 Ich bin mayi.-oi! und ich bin ein anfänger web entwickler.
 
 ## Projekte 💾
- mayi-oi website
-  > Ein personal website baut für mich!
-
- booksish-waffle (aktiv)
-  > Ein benutzerdefiniertes Profil für Janitor ai! 
-
-waffle-Portfolio
-  > Sehr coole Portfolio lol
-
- untitled skin
-  > untitled skin just download away!
+- mayi.-oi Website
+  <br>Ein Website von Spaß haben!
+- untitled skin
+  <br>Coole open source skin für osu!droid, osu!
+- waffle Portfolio
+  <br> Ganz coole simple Portfolio
 
 ## Kontakt mir! 
 Email: arkadlen@proton.me
