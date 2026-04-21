@@ -1,7 +1,7 @@
 ## Hello there! 👋
-Ich bin mayi.-oi! und ich bin ein anfänger web entwickler.
+Ich bin mayi.-oi! und ich bin ein anfänger web entwickler (oder web designer etwas lol).
 
-## Projekte 💾
+## "Kleine" Projekte 💾
 - mayi.-oi Website
   <br>Ein Website von Spaß haben!
 - untitled skin
@@ -9,7 +9,7 @@ Ich bin mayi.-oi! und ich bin ein anfänger web entwickler.
 - waffle Portfolio
   <br> Ganz coole simple Portfolio
 
-## Kontakt mir! 
+## Kontakt mir! falls du cool dude
 Email: arkadlen@proton.me
 <br>
 Cool Website: https://pancake-web-eight.vercel.app
