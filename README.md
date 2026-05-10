@@ -9,10 +9,10 @@ Ich bin mayi.-oi! und ich bin ein anfänger web entwickler (oder web designer et
 - waffle Portfolio
   <br> Ganz coole simple Portfolio
 
-## Kontakt mir! falls du cool dude
+## Kontakt mir! falls du cool person!
 Email: arkadlen@proton.me
 <br>
-Cool Website: https://pancake-web-eight.vercel.app
+Cool Website: https://pfandkuchen.vercel.app
 <!--
 **mayi-oi/mayi-oi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
